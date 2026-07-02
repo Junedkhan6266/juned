@@ -15,7 +15,4 @@ I'm a passionate developer interested in ai and ml.
 
 ## My Projects
 
-Here are some of my notable projects:
-
-- **[Project Name 1]**: [Brief description of Project 1]. [Link to Project 1](https://github.com/zunead7024-code/Project1)
-- **[Project Name 2]**: [Brief description of Project 2]. [Link to Project 2](https://github.com/zunead7024-code/Project2)
+Here are some of my notable projects.
