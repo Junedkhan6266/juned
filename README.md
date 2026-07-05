@@ -1,6 +1,9 @@
-# Hi there, I'm juned 👋
 
-I'm a passionate developer interested in ai and ml.
+## Hi there, I'm juned 👋
+
+I'm a passionate developer interested in ai and ml.I
+learned python and c.I am interested in learning about hardware
+and software.
 
 ## About Me
 
@@ -13,6 +16,13 @@ I'm a passionate developer interested in ai and ml.
 <!-- GitHub Stats will be dynamically generated here -->
 
 
-## My Projects
+## My running Projects
+.
+- i am currently working on a humanoid robot in a club 
+called humorphus.
+- i am learning 3d cad software e.g.gazebo
 
-Here are some of my notable projects.
+## My past works
+- i created a service robot using arduion,bluetooth module etc
+to serve other.
+ 
